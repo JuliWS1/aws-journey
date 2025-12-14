@@ -1,4 +1,4 @@
-# aws-journey
+aws-journey
 
 Mi camino a la certificación AWS Cloud Practitioner
 
@@ -21,4 +21,5 @@ Estado: En progreso 🚀
 \- \[x] Configurar alerta de presupuesto.
 
 \- \[x] Crear función Serverless con AWS Lambda.
+- \[x] Inteligencia Artificial: Pruebas con Amazon Bedrock (Modelos Fundacionales).
 
