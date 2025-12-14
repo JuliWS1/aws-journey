@@ -18,5 +18,7 @@ Estado: En progreso 🚀
 
 \- \[x] Completar laboratorio de EC2 (Servidor Virtual).
 
-\- \[ ] Configurar alerta de presupuesto.
+\- \[x] Configurar alerta de presupuesto.
+
+\- \[x] Crear función Serverless con AWS Lambda.
 
