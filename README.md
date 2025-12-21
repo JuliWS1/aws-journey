@@ -22,4 +22,4 @@ Estado: En progreso 🚀
 
 \- \[x] Crear función Serverless con AWS Lambda.
 - \[x] Inteligencia Artificial: Pruebas con Amazon Bedrock (Modelos Fundacionales).
-
+c
